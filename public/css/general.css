@@ -1,0 +1,14 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.feature {
+    background: #d25a40;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}
